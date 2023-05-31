@@ -1,2 +1,2 @@
 # CIFAR100
-Creating two Pytorch models for CIFAR100 using VGG16 architecture (of around 57.5% accuracy) using Normal Softmax and Gumbel Softmax respectively.
+Creating two Pytorch models for CIFAR100 based on VGG-16 architecture (of around 57.5% accuracy after 20 training epochs) using Normal Softmax and Gumbel Softmax respectively.
